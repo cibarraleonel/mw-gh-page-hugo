@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://cibarraleonel.github.io/mw-gh-page-hugo/"
 title = "Mikroways"
 theme = "bizcraft-hugo"
 # post pagination
