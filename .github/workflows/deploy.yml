@@ -16,7 +16,7 @@ jobs:
           hugo-version: 0.122.0
           extended: true
 
-      - run: hugo
+      - run: hugo --baseURL="https://cibarraleonel.github.io/mw-gh-page-hugo/" --cleanDestinationDir
 
       - uses: peaceiris/actions-gh-pages@v3
         with:

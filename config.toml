@@ -172,3 +172,5 @@ languageCode = "es-ar"
 contentDir = "content/spanish"
 weight = 2
 home = "Inicio"
+
+uglyURLs = true
