@@ -2,954 +2,954 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/blog/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/blog/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/blog/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/categories/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/categories/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/categories/"
                 />
   </url><url>
-    <loc>/blog/2023-08-30-terraform-with-sops/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/blog/2023-08-30-terraform-with-sops/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
   </url><url>
-    <loc>/categories/devsecops/</loc>
-    <lastmod>2023-08-30T20:30:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="/es/categories/devsecops/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/categories/devsecops/"
-                />
-  </url><url>
-    <loc>/tags/encryption/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/categories/devsecops/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/encryption/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/categories/devsecops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/encryption/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/categories/devsecops/"
                 />
   </url><url>
-    <loc>/tags/git/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/encryption/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/git/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/encryption/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/git/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/encryption/"
                 />
   </url><url>
-    <loc>/tags/infrastructure/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/git/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/infrastructure/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/infrastructure/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/git/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/infrastructure/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/infrastructure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/infrastructure/"
                 />
   </url><url>
-    <loc>/tags/sops/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/sops/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/sops/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/sops/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/sops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/sops/"
                 />
   </url><url>
-    <loc>/tags/terraform/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/terraform/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/terraform/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/"
                 />
   </url><url>
-    <loc>/tags/version/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/terraform/</loc>
     <lastmod>2023-08-30T20:30:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/version/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/terraform/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/version/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/terraform/"
                 />
   </url><url>
-    <loc>/tags/cache/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/version/</loc>
+    <lastmod>2023-08-30T20:30:55-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/version/"
+                />
+  </url><url>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/cache/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/cache/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/cache/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/cache/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/cache/"
                 />
   </url><url>
-    <loc>/tags/crio/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/crio/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/crio/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/crio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/crio/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/crio/"
                 />
   </url><url>
-    <loc>/tags/harbor/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/harbor/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/harbor/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/harbor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/harbor/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/harbor/"
                 />
   </url><url>
-    <loc>/blog/2023-08-25-harbor-in-okd/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/blog/2023-08-25-harbor-in-okd/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
   </url><url>
-    <loc>/tags/okd/</loc>
-    <lastmod>2023-08-25T01:37:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="/es/tags/okd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/okd/"
-                />
-  </url><url>
-    <loc>/tags/openshift/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/okd/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/openshift/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/okd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/openshift/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/okd/"
                 />
   </url><url>
-    <loc>/tags/redhat/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/openshift/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/redhat/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/openshift/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/redhat/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/openshift/"
                 />
   </url><url>
-    <loc>/tags/registry-mirror/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/redhat/</loc>
     <lastmod>2023-08-25T01:37:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/registry-mirror/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/redhat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/registry-mirror/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/redhat/"
                 />
   </url><url>
-    <loc>/tags/automation/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/registry-mirror/</loc>
+    <lastmod>2023-08-25T01:37:55-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/registry-mirror/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/registry-mirror/"
+                />
+  </url><url>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/automation/</loc>
     <lastmod>2022-02-11T09:52:58-03:00</lastmod>
   </url><url>
-    <loc>/tags/capistrano/</loc>
-    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="/es/tags/capistrano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/capistrano/"
-                />
-  </url><url>
-    <loc>/blog/2022-02-11-gitlab-ci-with-capistrano/</loc>
-    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
-  </url><url>
-    <loc>/tags/gitlab-ci/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/capistrano/</loc>
     <lastmod>2022-02-11T09:52:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/gitlab-ci/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/capistrano/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/gitlab-ci/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/capistrano/"
                 />
   </url><url>
-    <loc>/blog/2022-01-28-task-automation-using-capistrano/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/blog/2022-02-11-gitlab-ci-with-capistrano/</loc>
+    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
+  </url><url>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/gitlab-ci/</loc>
+    <lastmod>2022-02-11T09:52:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/gitlab-ci/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/gitlab-ci/"
+                />
+  </url><url>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/blog/2022-01-28-task-automation-using-capistrano/</loc>
     <lastmod>2022-01-28T11:06:24-03:00</lastmod>
   </url><url>
-    <loc>/tags/containerd/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/containerd/</loc>
     <lastmod>2021-12-30T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/containerd/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/containerd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/containerd/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/containerd/"
                 />
   </url><url>
-    <loc>/blog/2021-12-30-containerd-with-harbor/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/blog/2021-12-30-containerd-with-harbor/</loc>
     <lastmod>2021-12-30T11:47:55-03:00</lastmod>
   </url><url>
-    <loc>/tags/images/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/images/</loc>
     <lastmod>2021-12-30T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/images/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/images/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/images/"
                 />
   </url><url>
-    <loc>/blog/2021-12-29-crio-with-harbor/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/blog/2021-12-29-crio-with-harbor/</loc>
     <lastmod>2021-12-29T11:47:55-03:00</lastmod>
   </url><url>
-    <loc>/tags/dex/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/dex/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/dex/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/dex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/dex/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/dex/"
                 />
   </url><url>
-    <loc>/tags/docker-compose/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/docker-compose/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/docker-compose/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/docker-compose/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/docker-compose/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/docker-compose/"
                 />
   </url><url>
-    <loc>/tags/traefik/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/traefik/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/traefik/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/traefik/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/traefik/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/traefik/"
                 />
   </url><url>
-    <loc>/blog/2021-12-23-use-harbor-as-image-cache/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/blog/2021-12-23-use-harbor-as-image-cache/</loc>
     <lastmod>2021-12-23T11:47:55-03:00</lastmod>
   </url><url>
-    <loc>/tags/ansible/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/ansible/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/ansible/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/ansible/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/ansible/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/ansible/"
                 />
   </url><url>
-    <loc>/tags/clusterapi/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/clusterapi/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/clusterapi/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/clusterapi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/clusterapi/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/clusterapi/"
                 />
   </url><url>
-    <loc>/blog/2021-11-03-kubernetes-clusterapi/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/blog/2021-11-03-kubernetes-clusterapi/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
   </url><url>
-    <loc>/tags/kubernetes/</loc>
-    <lastmod>2021-11-01T12:14:34-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ar"
-                href="/es/tags/kubernetes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/tags/kubernetes/"
-                />
-  </url><url>
-    <loc>/tags/vmware/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/kubernetes/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/vmware/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/kubernetes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/vmware/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/kubernetes/"
                 />
   </url><url>
-    <loc>/tags/vsphere/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/vmware/</loc>
     <lastmod>2021-11-01T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/vsphere/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/vmware/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/vsphere/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/vmware/"
                 />
   </url><url>
-    <loc>/tags/aws/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/vsphere/</loc>
+    <lastmod>2021-11-01T12:14:34-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ar"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/vsphere/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/vsphere/"
+                />
+  </url><url>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/aws/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/tags/aws/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/tags/aws/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/aws/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/tags/aws/"
                 />
   </url><url>
-    <loc>/categories/mikroways/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/categories/mikroways/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/categories/mikroways/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/categories/mikroways/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/mikroways/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/categories/mikroways/"
                 />
   </url><url>
-    <loc>/blog/2021-10-04-consulting-partner-select-aws/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/blog/2021-10-04-consulting-partner-select-aws/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/blog/2021-10-04-consulting-partner-select-aws/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/blog/2021-10-04-consulting-partner-select-aws/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/2021-10-04-consulting-partner-select-aws/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/blog/2021-10-04-consulting-partner-select-aws/"
                 />
   </url><url>
-    <loc>/tags/news/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/tags/news/</loc>
     <lastmod>2021-10-04T12:14:34-03:00</lastmod>
   </url><url>
-    <loc>/portfolio/banco-columbia/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/banco-columbia/</loc>
     <lastmod>1970-01-01T00:00:06+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/banco-columbia/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/portfolio/banco-columbia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/banco-columbia/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/banco-columbia/"
                 />
   </url><url>
-    <loc>/portfolio/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/</loc>
     <lastmod>1970-01-01T00:00:06+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/"
                 />
   </url><url>
-    <loc>/portfolio/balanz/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/balanz/</loc>
     <lastmod>1970-01-01T00:00:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/balanz/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/portfolio/balanz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/balanz/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/balanz/"
                 />
   </url><url>
-    <loc>/portfolio/automatizacion-vt/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/automatizacion-vt/</loc>
     <lastmod>1970-01-01T00:00:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/automatizacion-vt/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/portfolio/automatizacion-vt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/automatizacion-vt/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/automatizacion-vt/"
                 />
   </url><url>
-    <loc>/portfolio/monitoreo-senasa/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/monitoreo-senasa/</loc>
     <lastmod>1970-01-01T00:00:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/monitoreo-senasa/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/portfolio/monitoreo-senasa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/monitoreo-senasa/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/monitoreo-senasa/"
                 />
   </url><url>
-    <loc>/portfolio/circular-lab-costos/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/circular-lab-costos/</loc>
     <lastmod>1970-01-01T00:00:02+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/circular-lab-costos/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/portfolio/circular-lab-costos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/circular-lab-costos/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/circular-lab-costos/"
                 />
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/contact/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/contact/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/contact/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/contact/"
                 />
   </url><url>
-    <loc>/portfolio/bluedraft-cicd/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/bluedraft-cicd/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/portfolio/bluedraft-cicd/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/portfolio/bluedraft-cicd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/portfolio/bluedraft-cicd/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/portfolio/bluedraft-cicd/"
                 />
   </url><url>
-    <loc>/ebooks/ebook2024/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/ebooks/ebook2024/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/ebooks/ebook2024/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/ebooks/ebook2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/ebooks/ebook2024/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/ebooks/ebook2024/"
                 />
   </url><url>
-    <loc>/ebooks/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/ebooks/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/ebooks/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/ebooks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/ebooks/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/ebooks/"
                 />
   </url><url>
-    <loc>/contact/succesful/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/contact/succesful/</loc>
     <lastmod>1970-01-01T00:00:01+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/contact/succesful/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/contact/succesful/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/contact/succesful/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/contact/succesful/"
                 />
   </url><url>
-    <loc>/apply/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/apply/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/apply/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/apply/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/apply/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/apply/"
                 />
   </url><url>
-    <loc>/author/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/author/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/author/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/author/"
                 />
   </url><url>
-    <loc>/business-continuity/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/business-continuity/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/business-continuity/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/business-continuity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/business-continuity/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/business-continuity/"
                 />
   </url><url>
-    <loc>/training/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/training/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/training/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/training/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/training/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/training/"
                 />
   </url><url>
-    <loc>/career/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/career/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/career/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/career/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/career/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/career/"
                 />
   </url><url>
-    <loc>/cloud-native-architecture/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/cloud-native-architecture/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/cloud-native-architecture/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/cloud-native-architecture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/cloud-native-architecture/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/cloud-native-architecture/"
                 />
   </url><url>
-    <loc>/containerization-and-orchestration/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/containerization-and-orchestration/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/containerization-and-orchestration/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/containerization-and-orchestration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/containerization-and-orchestration/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/containerization-and-orchestration/"
                 />
   </url><url>
-    <loc>/continuous-integration-and-deployment/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/continuous-integration-and-deployment/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/continuous-integration-and-deployment/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/continuous-integration-and-deployment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/continuous-integration-and-deployment/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/continuous-integration-and-deployment/"
                 />
   </url><url>
-    <loc>/cybersecurity/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/cybersecurity/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/cybersecurity/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/cybersecurity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/cybersecurity/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/cybersecurity/"
                 />
   </url><url>
-    <loc>/work-with-us/devops-engineer-junior/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/work-with-us/devops-engineer-junior/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/work-with-us/devops-engineer-junior/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/work-with-us/devops-engineer-junior/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/work-with-us/devops-engineer-junior/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/work-with-us/devops-engineer-junior/"
                 />
   </url><url>
-    <loc>/work-with-us/devops-engineer-ssr/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/work-with-us/devops-engineer-ssr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/work-with-us/devops-engineer-ssr/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/work-with-us/devops-engineer-ssr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/work-with-us/devops-engineer-ssr/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/work-with-us/devops-engineer-ssr/"
                 />
   </url><url>
-    <loc>/work-with-us/devops-engineer-trainee/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/work-with-us/devops-engineer-trainee/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/work-with-us/devops-engineer-trainee/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/work-with-us/devops-engineer-trainee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/work-with-us/devops-engineer-trainee/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/work-with-us/devops-engineer-trainee/"
                 />
   </url><url>
-    <loc>/digital-transformation/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/digital-transformation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/digital-transformation/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/digital-transformation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/digital-transformation/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/digital-transformation/"
                 />
   </url><url>
-    <loc>/faq/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/faq/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/faq/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/faq/"
                 />
   </url><url>
-    <loc>/training/docker/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/training/docker/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/training/docker/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/training/docker/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/training/docker/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/training/docker/"
                 />
   </url><url>
-    <loc>/training/kubernetes/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/training/kubernetes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/training/kubernetes/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/training/kubernetes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/training/kubernetes/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/training/kubernetes/"
                 />
   </url><url>
-    <loc>/infrastructure-provisioning/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/infrastructure-provisioning/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/infrastructure-provisioning/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/infrastructure-provisioning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/infrastructure-provisioning/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/infrastructure-provisioning/"
                 />
   </url><url>
-    <loc>/author/john-doe/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/author/john-doe/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/author/john-doe/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/author/john-doe/"
                 />
   </url><url>
-    <loc>/monitoring-and-observability/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/monitoring-and-observability/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/monitoring-and-observability/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/monitoring-and-observability/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/monitoring-and-observability/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/monitoring-and-observability/"
                 />
   </url><url>
-    <loc>/our-culture/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/our-culture/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/our-culture/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/our-culture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/our-culture/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/our-culture/"
                 />
   </url><url>
-    <loc>/clients/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/clients/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/clients/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/clients/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/clients/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/clients/"
                 />
   </url><url>
-    <loc>/platform-engineering/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/platform-engineering/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/platform-engineering/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/platform-engineering/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/platform-engineering/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/platform-engineering/"
                 />
   </url><url>
-    <loc>/pricing/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/pricing/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/pricing/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/pricing/"
                 />
   </url><url>
-    <loc>/privacy-policy/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/privacy-policy/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/privacy-policy/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/privacy-policy/"
                 />
   </url><url>
-    <loc>/professional-services/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/professional-services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/professional-services/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/professional-services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/professional-services/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/professional-services/"
                 />
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/about/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/about/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/about/"
                 />
   </url><url>
-    <loc>/team/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/team/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/team/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/team/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/team/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/team/"
                 />
   </url><url>
-    <loc>/work-with-us/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/work-with-us/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/work-with-us/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/work-with-us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/work-with-us/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/work-with-us/"
                 />
   </url><url>
-    <loc>/training/wfc/</loc>
+    <loc>https://cibarraleonel.github.io/mw-gh-page-hugo/training/wfc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ar"
-                href="/es/training/wfc/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/es/training/wfc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/training/wfc/"
+                href="https://cibarraleonel.github.io/mw-gh-page-hugo/training/wfc/"
                 />
   </url>
 </urlset>
